@@ -1,0 +1,31 @@
+p {
+  color: green;
+}
+/*
+#game_2048 {
+  height: 800px;
+  margin: 20px auto;
+  position: relative;
+  width: 700px;
+}
+.score{
+  height: 100px;
+  position: relative;
+  width: 700px;
+  border: 2px solid green;
+}
+#playingArea{
+  height: 700px;
+  position: relative;
+  width: 700px;
+  border: 2px solid gray;
+}
+#playingArea div {
+  cursor: pointer;
+  height: 175px;
+  line-height: 175px;
+  position: absolute;
+  text-align: center;
+  width: 175px;
+}
+*/
